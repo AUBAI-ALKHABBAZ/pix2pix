@@ -1,5 +1,8 @@
 # pix2pix
 pix2pix_maps
+____________________________________________________________
+![image](https://github.com/AUBAI-ALKHABBAZ/pix2pix/assets/102236043/371a5a14-0448-4929-9b72-e5e2e3a56bd0)
+____________________________________________________________
 COURSE 3
 Apply Generative Adversarial Networks (GANs)
 ![image](https://github.com/AUBAI-ALKHABBAZ/pix2pix/assets/102236043/f1686e51-03aa-4213-910a-a6d8b348fba8)
